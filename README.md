@@ -16,4 +16,4 @@ This is a simple and interactive **To-Do List** web application built using **Re
 
 ## Screenshot
 
-![To-Do List App Screenshot](assets/to-do-list-screenshot.jpeg)
+![To-Do List App Screenshot](assets/imgs/to-do-list-screenshot.jpeg)
